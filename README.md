@@ -2,7 +2,7 @@
 
 Software Engineer from Norway.
 
-## Projects
+## Personal projects
 
 - [pi-extensions](https://github.com/vegardx/pi-extensions) — Extensions for the pi coding agent
 - [dotfiles](https://github.com/vegardx/dotfiles) — Machine bootstrap & dotfiles
